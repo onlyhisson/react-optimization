@@ -14,3 +14,9 @@
 참조 : [별코딩](https://www.youtube.com/watch?v=e-CnI8Q5RY4&list=PLZ5oZ2KmQEYjwhSxjB_74PoU6pmFzgVMO&index=6, "youtube link")
 
 - useMemo
+
+## 예제4
+
+참조 : [별코딩](https://www.youtube.com/watch?v=XfUF9qLa3mU&list=PLZ5oZ2KmQEYjwhSxjB_74PoU6pmFzgVMO&index=8, "youtube link")
+
+- useCallback
